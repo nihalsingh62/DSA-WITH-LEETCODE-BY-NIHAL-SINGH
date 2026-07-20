@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0042-trapping-rain-water) |
 | [0611-valid-triangle-number](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0611-valid-triangle-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1095-find-in-mountain-array) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
