@@ -1,19 +1,32 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        return palll(s);
-        
-    }static boolean palll(String s){
-        StringBuilder shhh = new StringBuilder(s.toLowerCase().replaceAll("[^a-z0-9]",""));
-        if(s == null || s == ""){
+
+        if (s == null) {
             return true;
         }
-        for (int i = 0; i < shhh.length() / 2; i++) {
-            char ss = shhh.charAt(i);
-            char pp = shhh.charAt(shhh.length() - 1 - i);
-            if(ss != pp){
+
+        int left = 0;
+        int right = s.length() - 1;
+
+        while (left < right) {
+
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            }
+
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            if (Character.toLowerCase(s.charAt(left))
+                    != Character.toLowerCase(s.charAt(right))) {
                 return false;
             }
-        }return true;
 
+            left++;
+            right--;
+        }
+
+        return true;
     }
 }
