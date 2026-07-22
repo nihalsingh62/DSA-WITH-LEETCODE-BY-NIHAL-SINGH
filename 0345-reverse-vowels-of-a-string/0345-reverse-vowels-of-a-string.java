@@ -2,12 +2,11 @@ class Solution {
     public String reverseVowels(String s) {
         char[] shh = s.toCharArray();
 
-        reverse(shh);
 
-        return new String(shh);
+        return reverse(shh);
     }
 
-    static void reverse(char[] shh) {
+    static String reverse(char[] shh) {
         int left = 0;
         int right = shh.length - 1;
 
@@ -29,7 +28,7 @@ class Solution {
                 left++;
                 right--;
             }
-        }
+        }return new String(shh);
     }
 
     static boolean isVowel(char ch) {
