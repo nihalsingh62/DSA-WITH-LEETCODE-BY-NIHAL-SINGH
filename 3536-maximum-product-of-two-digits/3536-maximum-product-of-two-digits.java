@@ -3,15 +3,22 @@ class Solution {
         return maxmul(n);
         
     }static int maxmul(int n){
-        String s = String.valueOf(n);
-        int[] arr = new int[s.length()];
-        for(int i = 0; i<arr.length;i++){
-            arr[i] = s.charAt(i) - '0';
-        }
-        Arrays.sort(arr);
-        int ni = arr[arr.length-1] * arr[arr.length-2];
-        return ni;
+        int max1 = 0, max2 = 0;
 
+        while (n > 0) {
+            int digit = n % 10;
+
+            if (digit > max1) {
+                max2 = max1;
+                max1 = digit;
+            } else if (digit > max2) {
+                max2 = digit;
+            }
+
+            n /= 10;
+        }
+
+        return max1 * max2;
     }
     
 }
