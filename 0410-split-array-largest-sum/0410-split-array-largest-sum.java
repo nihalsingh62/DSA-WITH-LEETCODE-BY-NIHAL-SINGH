@@ -1,40 +1,43 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int mini = minsum(nums);
-        int maxi = maxsum(nums);
-        int ans = bs(nums,mini ,maxi,k);
-        return ans;
-
-        
-    }static int maxsum(int[] nums){
-        int maxsumm = 0;
-        for(int i = 0; i< nums.length;i++){
-            maxsumm += nums[i];
-        }return maxsumm;
-    }static int minsum(int[] nums){
-        int minsumm = Integer.MIN_VALUE;
-        for(int i = 0 ; i< nums.length;i++){
-            minsumm = Math.max(minsumm, nums[i]);
-        }return minsumm;
-    }static int bs(int[] nums,int left ,int right , int k){
-
+        int Llimit = Lmaxi(nums);
+        int Hlimit = maxi(nums);
+        return mqu(Llimit,Hlimit,nums,k);
+    }static int mqu(int left,int right,int[] nums, int k){
         while(left<right){
-            int mid = left + (right - left ) / 2;
-            int pieces = 1;
+            int mid = left + (right - left) / 2;
+            int pc = 1;
             int sum = 0;
-            for(int i = 0; i < nums.length;i++){
+            for(int i = 0;i<nums.length;i++){
+                
                 if(sum + nums[i] > mid){
-                    pieces++;
+                    pc++;
                     sum = nums[i];
                 }else{
-                    sum += nums[i];
+                    sum+= nums[i];
                 }
-            }if(pieces>k){
-                left = mid + 1;
-            }else{
-                right = mid;
-            }
-        }return right;
-    }
 
+            }if(pc<=k){
+                right = mid;
+            }else{
+                left = mid+1;
+            }
+        }return left;
+    }
+    static int maxi(int[] nums){
+        int max = 0;
+        for(int i = 0;i<nums.length;i++){
+            max += nums[i];
+        }return max;
+
+    }
+    static int Lmaxi(int[] nums){
+        int max = Integer.MIN_VALUE;
+        for(int i = 0;i<nums.length;i++){
+            if(max < nums[i]){
+                max = nums[i];
+            }
+        }return max;
+
+    }
 }
