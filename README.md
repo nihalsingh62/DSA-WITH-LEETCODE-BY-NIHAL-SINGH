@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0922-sort-array-by-parity-ii) |
 | [1095-find-in-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1095-find-in-mountain-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
