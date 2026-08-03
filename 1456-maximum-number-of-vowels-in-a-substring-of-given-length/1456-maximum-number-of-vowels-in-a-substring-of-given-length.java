@@ -6,25 +6,23 @@ class Solution {
     static int vow(String s, int k) {
         int count = 0;
 
-        // Count vowels in the first window
         for (int i = 0; i < k; i++) {
-            if (isVowel(s.charAt(i))) {
+            if (vowels(s.charAt(i))) {
                 count++;
             }
         }
 
         int max = count;
 
-        // Slide the window
         for (int i = k; i < s.length(); i++) {
 
-            // Remove the left character
-            if (isVowel(s.charAt(i - k))) {
+            // Remove left character
+            if (vowels(s.charAt(i - k))) {
                 count--;
             }
 
-            // Add the new right character
-            if (isVowel(s.charAt(i))) {
+            // Add right character
+            if (vowels(s.charAt(i))) {
                 count++;
             }
 
@@ -34,8 +32,11 @@ class Solution {
         return max;
     }
 
-    static boolean isVowel(char ch) {
-        return ch == 'a' || ch == 'e' || ch == 'i' ||
-               ch == 'o' || ch == 'u';
+    static boolean vowels(char ch) {
+        return ch == 'a' ||
+               ch == 'e' ||
+               ch == 'i' ||
+               ch == 'o' ||
+               ch == 'u';
     }
 }
