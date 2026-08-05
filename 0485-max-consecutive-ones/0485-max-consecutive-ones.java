@@ -1,20 +1,16 @@
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
-        return loopd(nums);
+        return h(nums);
         
-    }static int loopd(int[] nums){
-        int left = 0;
-        int sum = 0;
-        int max = Integer.MIN_VALUE;
-        
-        while(left!=nums.length){
-            if(nums[left] != 0){
-                sum += nums[left];
-                left++;
-            }else if(nums[left] == 0){
-                left++;
-                sum=0;
-            }max = Math.max(sum,max);
+    }static int h(int[] nums){
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int max = 0;
+        for(int i = 0; i<nums.length ; i++ ){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+            max = Math.max(max,map.getOrDefault(1,0));
+            if(nums[i] == 0){
+                map.clear();
+            }
         }return max;
     }
 }
