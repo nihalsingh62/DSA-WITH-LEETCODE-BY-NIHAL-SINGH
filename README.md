@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1512-number-of-good-pairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
