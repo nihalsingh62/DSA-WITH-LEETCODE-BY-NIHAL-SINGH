@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1095-find-in-mountain-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1512-number-of-good-pairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1095-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -204,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
