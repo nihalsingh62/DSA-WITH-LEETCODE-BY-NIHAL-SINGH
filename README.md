@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1920-build-array-from-permutation) |
 ## Math
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihalsingh62/DSA-WITH-LEETCODE-BY-NIHAL-SINGH/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
